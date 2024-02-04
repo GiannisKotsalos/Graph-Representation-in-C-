@@ -1,4 +1,5 @@
 Features:
+
 1.Graph Reading: The program reads a graph from a file and constructs its representation.
 
 2.Display Functions: Two display functions are provided to print the outgoing edges for each node and all edges in the graph.
